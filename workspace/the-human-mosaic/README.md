@@ -1,6 +1,8 @@
-# The Human Mosaic - Advanced AI Social Simulation Platform
+# The Human Mosaic - Advanced AI Social Simulation Platform.
 
-A sophisticated multi-agent interaction ecosystem that models complex social dynamics through an immersive, real-time web visualization.
+An attempt towards a sophisticated multi-agent interaction ecosystem that models complex social dynamics through an immersive, real-time web visualization.
+This is work in progress...
+
 
 ## Features
 
@@ -82,4 +84,4 @@ This project is licensed under the MIT License.
 
 ### Credits
 
-Developed by Sidney Njer
+Developed by Sid
